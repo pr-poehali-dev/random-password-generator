@@ -68,7 +68,7 @@ const Index = () => {
     },
     {
       title: "Защита личных данных",
-      url: "https://www.youtube.com/watch?v=QJn3TXgrdUI",
+      url: "https://blog.skillfactory.ru/zaschita-personalnyh-dannyh/",
       icon: "Lock"
     },
     {
