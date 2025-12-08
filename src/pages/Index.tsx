@@ -63,7 +63,7 @@ const Index = () => {
   const videoLinks = [
     {
       title: "Основы кибербезопасности",
-      url: "https://www.youtube.com/watch?v=inWWhr5tnEA",
+      url: "https://practicum.yandex.ru/blog/chto-takoe-kiberbrzopasnost/",
       icon: "Shield"
     },
     {
@@ -73,12 +73,12 @@ const Index = () => {
     },
     {
       title: "Безопасные пароли",
-      url: "https://www.youtube.com/watch?v=aEmF3Iylvr4",
+      url: "https://habr.com/ru/articles/841896/",
       icon: "Key"
     },
     {
       title: "Двухфакторная аутентификация",
-      url: "https://www.youtube.com/watch?v=0mvCeNsTa1g",
+      url: "https://habr.com/ru/companies/1cloud/articles/277901/",
       icon: "ShieldCheck"
     }
   ];
