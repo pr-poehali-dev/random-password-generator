@@ -89,7 +89,7 @@ const Index = () => {
         <aside className="hidden lg:flex flex-col w-64 border-r border-border bg-white/80 backdrop-blur-sm min-h-screen p-6 space-y-4">
           <h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
             <Icon name="Video" size={20} className="text-primary" />
-            Видеоматериалы
+            Полезные ссылки
           </h3>
           {videoLinks.slice(0, 2).map((link, idx) => (
             <a
